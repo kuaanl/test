@@ -1,0 +1,42 @@
+<style>
+  h1 {
+    font-family:'Oswald';
+    text-align: center;
+    color: brown;
+  }
+
+  p {                                                                                    
+    font-family: 'Noto Sans Hanifi Rohingya';
+    text-align: center;
+    color: blue;
+  }
+
+  a{
+      color: rgb(167,1,78);
+      text-decoration:none
+  }
+  
+  a:hover{
+      text-decoration:underline;
+  }
+
+  #todays-challenge {
+      color:rgb(83, 170, 137);
+      font-weight:bold;
+      font-size:
+  }
+
+  img{
+      width:200px;
+      height:200px;
+      border-radius:100px ;
+  }
+
+  body{
+      text-align:center;
+      background-color: rgb(233,215,207);
+      margin:50px;
+  }
+  </style>
+  
+
